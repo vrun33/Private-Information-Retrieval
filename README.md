@@ -3,7 +3,7 @@ Course Project for EC5.102 Information and Communication
 
 # Contributors
 [M P Samartha](https://github.com/samarthamp)  
-[Varun Shastry](https://github.com/GroanKing05)  
+[Varun Shastry](https://github.com/vrun33)  
 [Sarvesh Takbhate](https://github.com/sarvesh2005takbhate)  
 
 # File Structure
